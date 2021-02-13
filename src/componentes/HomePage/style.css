@@ -1,0 +1,11 @@
+.home-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.home-page .card-container:hover {
+    cursor: pointer;
+}
