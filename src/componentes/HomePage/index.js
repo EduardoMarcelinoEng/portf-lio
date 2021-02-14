@@ -9,7 +9,6 @@ export default function HomePage() {
                 name="Baralho dos Signos"
                 description="Layout com informações dos signos"
                 tech="HTML, CSS, JavaScript, React"
-                url="projects/horoscopo/index.html"
             /></a>
             <a href="https://numero-aleatorio.herokuapp.com/" target="_blank"><Card 
                 name="Número Aleatório"
